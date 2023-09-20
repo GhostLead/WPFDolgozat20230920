@@ -35,6 +35,7 @@ namespace WPFDoga2023_09_20
         {
             int fuvarokSzama = fuvarok.Count();
             MessageBox.Show($"3.Feladat: {fuvarokSzama} fuvar");
+            MessageBox.Show("Ha mégegyszer hátranézel beverem az arcod!!!!!!!!!");
         }
 
         private void txtAzonositoEllenorzes(object sender, TextCompositionEventArgs e) {
